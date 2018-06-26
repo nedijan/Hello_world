@@ -1,4 +1,4 @@
-import static java.awt.*
+import static java.awt.*;
 class Hello_Word {
 
 public static void main (String[] args) {
